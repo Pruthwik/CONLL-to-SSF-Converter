@@ -1,0 +1,78 @@
+<Sentence id='1'>
+1	आधारभूत	JJ	
+2	संरचना	N_NN	
+3	व	CC_CCD	
+4	उद्योग	N_NN	
+</Sentence>
+
+<Sentence id='2'>
+1	आधारभूत	JJ	
+2	संरचना	N_NN	
+3	के	PSP	
+4	अर्थव्यवस्था	N_NN	
+5	का	PSP	
+6	संवृद्धि	N_NN	
+7	ड्राइवर	N_NN	
+8	होने	V_VM	
+9	पर	PSP	
+10	जोर	N_NN	
+11	देते	V_VM	
+12	हुए	V_VAUX	
+13	वित्त	N_NN	
+14	मंत्री	N_NN	
+15	आधारभूत	JJ	
+16	संरचना	N_NN	
+17	में	PSP	
+18	निवेश	N_NN	
+19	के	PSP	
+20	लिए	PSP	
+21	भी	RP_RPD	
+22	काफी	QT_QTF	
+23	चिंतित	JJ	
+24	हैं	V_VM	
+25	।	RD_PUNC	
+</Sentence>
+
+<Sentence id='3'>
+1	उन्होंने	PR_PRP	
+2	2018	N_NNP	
+3	-	RD_SYM	
+4	19	N_NNP	
+5	के	PSP	
+6	लिए	PSP	
+7	आधारभूत	JJ	
+8	संरचना	N_NN	
+9	व	CC_CCD	
+10	सड़क	N_NN	
+11	,	RD_PUNC	
+12	हवाई	JJ	
+13	अड्डों	N_NN	
+14	,	RD_PUNC	
+15	रेलवे	N_NN	
+16	,	RD_PUNC	
+17	पत्तन	N_NN	
+18	व	CC_CCD	
+19	इनलैंड	N_NN	
+20	वाटरर्वेज	N_NN	
+21	के	PSP	
+22	नेटवर्क	N_NN	
+23	से	PSP	
+24	देश	N_NN	
+25	को	PSP	
+26	जोड़ने	V_VM	
+27	के	PSP	
+28	लिए	PSP	
+29	बजट	N_NN	
+30	आवंटन	N_NN	
+31	को	PSP	
+32	बढ़ाकर	V_VM	
+33	रु.	QT_QTC	
+34	5.97	QT_QTC	
+35	लाख	QT_QTC	
+36	करोड	QT_QTC	
+37	कर	V_VM	
+38	दिया	V_VAUX	
+39	है	V_VAUX	
+40	।	RD_PUNC	
+</Sentence>
+
